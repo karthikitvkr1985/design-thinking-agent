@@ -1,6 +1,4 @@
 # design-thinking-agent
-# Design Thinking AI Agent
-
 An AI-powered facilitator that guides users through the Design Thinking process using LangChain, LangGraph, and Groq LLM.
 
 ## Features
